@@ -9,7 +9,6 @@
 - [Локальный компьютер](#локальный-компьютер)
   - [Ubuntu](#ubuntu)
   - [Windows](#windows)
-    - [Ollama](#ollama)
 - [Сервер (Ubuntu)](#сервер-(ubuntu))
   - [Ollama](#ollama)
   - [Docker](#docker)
@@ -41,15 +40,8 @@
 ### Ubuntu
 Раздел в стадии наполнения.
 
-#### Ollama
-...
-
-
 ### Windows
 Раздел в стадии наполнения.
-
-#### Ollama
-...
 
 
 ### Сервер (Ubuntu)
